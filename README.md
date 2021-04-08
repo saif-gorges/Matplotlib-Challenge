@@ -30,30 +30,30 @@ From the box plot graph, we can see that Ramicane and Capomulin are more effecti
 
 # Bar Chart
 ## <a name="bar-charts">Bar Charts</a>
-Bar plot using both Pandas's and Matplotlib's that shows  the number of total mice for each treatment regimen throughout the course of the study.
+Bar plot using both Pandas's and Matplotlib's that shows  the number of total mice for each treatment regimen throughout the course of the study.<br>
 ![image](https://user-images.githubusercontent.com/69221324/113892783-5d3a7c00-9794-11eb-90a8-9f78d0ae6c71.png)
 
 
 ## <a name="pie-charts">Pie Charts</a>
-Pie plot using both Pandas's and Matplotlib's that shows the distribution of female or male mice in the study.
+Pie plot using both Pandas's and Matplotlib's that shows the distribution of female or male mice in the study.<br>
 ![image](https://user-images.githubusercontent.com/69221324/114023245-a2b48300-9840-11eb-83b5-40453b161800.png)
 
 
 ## <a name="box-chart">Box Charts</a>
-Box and whisker plot of the final tumor volume for all four treatment regimens.
+Box and whisker plot of the final tumor volume for all four treatment regimens.<br>
 ![image](https://user-images.githubusercontent.com/69221324/114023322-bbbd3400-9840-11eb-9486-73886de2c4a9.png)
 
 
 ## <a name="line-charts">Line Charts</a>
-Visualization of tumor volume vs. time point a mouse that was treated with Capomulin.
+Visualization of tumor volume vs. time point a mouse that was treated with Capomulin.<br>
 ![image](https://user-images.githubusercontent.com/69221324/114023354-c5469c00-9840-11eb-9c0a-b80d9c521dd0.png)
 
 
 ## <a name="scatter-charts">Scatter Charts</a>
-Visualization of mouse weight versus average tumor volume for the Capomulin treatment regimen.
+Visualization of mouse weight versus average tumor volume for the Capomulin treatment regimen.<br>
 ![image](https://user-images.githubusercontent.com/69221324/114023381-cd9ed700-9840-11eb-973c-ed77992d9203.png)
 
 
-## <a name="linear-regression">Correlation Coeifficient & Linear Regression Models</a>
+## <a name="linear-regression">Correlation Coeifficient & Linear Regression Models</a><br>
 Calculated the correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment.
 ![image](https://user-images.githubusercontent.com/69221324/114023418-da232f80-9840-11eb-8234-6ac7544bfea4.png)
