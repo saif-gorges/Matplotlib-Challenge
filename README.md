@@ -28,7 +28,6 @@ From the box plot graph, we can see that Ramicane and Capomulin are more effecti
 
 # Data Visualizations
 
-# Bar Chart
 ## <a name="bar-charts">Bar Charts</a>
 Bar plot using both Pandas's and Matplotlib's that shows  the number of total mice for each treatment regimen throughout the course of the study.<br>
 ![image](https://user-images.githubusercontent.com/69221324/113892783-5d3a7c00-9794-11eb-90a8-9f78d0ae6c71.png)
