@@ -54,6 +54,6 @@ Visualization of mouse weight versus average tumor volume for the Capomulin trea
 ![image](https://user-images.githubusercontent.com/69221324/114023381-cd9ed700-9840-11eb-973c-ed77992d9203.png)
 
 
-## <a name="linear-regression">Correlation Coeifficient & Linear Regression Models</a><br>
-Calculated the correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment.
+## <a name="linear-regression">Correlation Coeifficient & Linear Regression Models</a>
+Calculated the correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment.<br>
 ![image](https://user-images.githubusercontent.com/69221324/114023418-da232f80-9840-11eb-8234-6ac7544bfea4.png)
